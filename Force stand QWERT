@@ -1,0 +1,25 @@
+#IfWinActive, Path of Exile
+
+*RButton::Send {shift Down}{RButton down}
+
+*RButton Up::Send {shift Up}{RButton up}
+
+*q::Send {shift Down}{q down}
+
+*q Up::Send {shift Up}{q up}
+
+*w::Send {shift Down}{w down}
+
+*w Up::Send {shift Up}{w up}
+
+*e::Send {shift Down}{e down}
+
+*e Up::Send {shift Up}{e up}
+
+*r::Send {shift Down}{r down}
+
+*r Up::Send {shift Up}{r up}
+
+*t::Send {shift Down}{t down}
+
+*t Up::Send {shift Up}{t up}
